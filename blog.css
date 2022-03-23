@@ -1,0 +1,22 @@
+body{
+    background-color: #EEEEEE;
+}
+i{
+    color: #3B83D9;
+}
+.insidebox{
+    background-color:#FFFFFF ;
+    padding: 55px 10px;
+    margin:30px 0;
+}
+a{
+    border-bottom: 1px solid #0062CC;
+}
+.text{
+    font-size:13px;
+    margin:20px 0;
+}
+.box{
+    padding:60px 0;
+}
+
